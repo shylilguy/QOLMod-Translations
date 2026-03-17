@@ -1,133 +1,133 @@
 {
-    "display_name_english": "English",
-    "display_name_native": "English",
+    "display_name_english": "Turkish",
+    "display_name_native": "Türkçe",
     "fallback-lang": "",
     "font": "chatFont.fnt",
     "strings": {
         "categories": {
-            "level": "Level",
-            "universal": "Universal",
-            "creator": "Creator",
-            "cosmetic": "Cosmetic",
-            "speedhack": "Speedhack",
-            "icon effects": "Icon Effects",
-            "labels": "Labels",
-            "config": "Config",
-            "search": "Search",
-            "favourites": "Favourites",
-            "menu": "Menu",
-            "button": "Button",
-            "theme": "Theme",
-            "language": "Language",
-            "shortcuts": "Shortcuts"
+            "level": "Seviye",
+            "universal": "Evrensel",
+            "creator": "Yaratıcı",
+            "cosmetic": "Görünüm",
+            "speedhack": "Hız Hilesi",
+            "icon effects": "Oyuncuyu Özelleştir",
+            "labels": "Tabelalar",
+            "config": "Özel Ayarlar",
+            "search": "Arat",
+            "favourites": "Yıldızlanmışlar",
+            "menu": "Menü",
+            "button": "Tuş",
+            "theme": "Tema",
+            "language": "Dil",
+            "shortcuts": "Kısayollar"
         },
         "input-hints": {
-            "seconds": "sec",
-            "semitones": "semitones",
-            "fps": "fps",
+            "seconds": "sn",
+            "semitones": "semiton",
+            "fps": "kare/sn",
             "percentage": "%",
-            "tps": "tps",
-            "cps": "cps"
+            "tps": "fizik/sn",
+            "cps": "basma/sn"
         },
         "ui": {
-            "coming-soon": "Coming Soon",
-            "themes-edit-button": "Edit Colours",
-            "ok-button": "OK",
-            "default-button": "Default",
-            "undo-button": "Undo",
-            "change-font-button": "Change Font",
-            "safe-mode-view-reason-button": "View Reason",
-            "export-to-file-button": "Export to file",
-            "import-from-file-button": "Import from file",
-            "language-contributors-button": "View Contributors",
-            "cancel-button": "Cancel",
-            "confirm-button": "Confirm",
-            "notification-mod-enabled": "%s enabled",
-            "notification-mod-disabled": "%s disabled",
-            "notification-button-pressed": "%s activated",
-            "notification-speedhack-set": "Speedhack set to %s",
-            "notification-test": "This is a test notification :3",
-            "title-error": "Error",
-            "themes-edit-image-button": "Edit Image",
-            "language-missing-unfinished": "Language missing / unfinished?",
-            "language-contribute-button": "Contribute!",
-            "language-options-title": "Language Options"
+            "coming-soon": "Yakında",
+            "themes-edit-button": "Renkleri Değiştir",
+            "ok-button": "tam abi",
+            "default-button": "Normal Ayar",
+            "undo-button": "Geri al",
+            "change-font-button": "Fontunu Değiştir",
+            "safe-mode-view-reason-button": "Sebebine Bak",
+            "export-to-file-button": "Dosyaya aktar",
+            "import-from-file-button": "Dosyadan yükle",
+            "language-contributors-button": "Dil yapanlar (burdayım!!!)",
+            "cancel-button": "Vazgeç",
+            "confirm-button": "Son kararım",
+            "notification-mod-enabled": "%ler açık",
+            "notification-mod-disabled": "%ler kapalı",
+            "notification-button-pressed": "%ler açıldı!",
+            "notification-speedhack-set": "Oyun hızı yüzde %'æ değiştirildi ",
+            "notification-test": "bu test bildirimi üğağağağağü",
+            "title-error": "eror :3",
+            "themes-edit-image-button": "Görseli Değiştir",
+            "language-missing-unfinished": "Dil yok / daha bitirilmemiş :(",
+            "language-contribute-button": "Modumuza dil ekle!!",
+            "language-options-title": "Dil Ayarları"
         },
         "colour-setup": {
-            "title": "Select Colour",
-            "add-step": "Add Step",
-            "remove-step": "Remove Step",
-            "player-primary": "Player\nPrimary",
-            "player-secondary": "Player\nSecondary",
-            "player-glow": "Player\nGlow",
-            "chroma": "Chroma",
-            "pastel": "Pastel",
-            "gradient": "Gradient",
-            "colour-hint": "Colour:",
-            "effect-speed": "Effect Speed",
-            "red": "R:",
-            "green": "G:",
-            "blue": "B:",
+            "title": "Renk Seç",
+            "add-step": "Adım Ekle",
+            "remove-step": "Adım Sil",
+            "player-primary": "Oyuncu\nBirincil",
+            "player-secondary": "Oyuncu\nİkincil",
+            "player-glow": "Oyuncu\nParlama",
+            "chroma": "Kroma",
+            "pastel": "Pastel boya",
+            "gradient": "Gradyan",
+            "colour-hint": "Renk:",
+            "effect-speed": "Animasyon Hızı",
+            "red": "Kır:",
+            "green": "Yeş:",
+            "blue": "Mav:",
             "hex": "HEX:"
         },
         "extra-theme-settings": {
-            "title": "Edit Gradient Colours",
-            "title-image": "Edit Background Image"
+            "title": "Gradyan Renklerini Değiştir",
+            "title-image": "Arkaplandaki Görseli Değiştir"
         },
         "edit-keybind-ui": {
-            "title": "Edit Keybind",
-            "no-keybind": "No Keybind"
+            "title": "Kısayolu Değiştir",
+            "no-keybind": "kısayolsuz >:)"
         },
         "language-credits": {
-            "title": "Language Credits",
+            "title": "Dilleri çevirenler",
             "warning": {
                 "title": "Note",
-                "text": "Language contributors are <cr>NOT</c> <co>QOLMod</c> developers, they <cr>cannot</c> add features or fix bugs.\nPlease <cr>do not</c> message language contributors for bug fixes"
+                "text": "Biz dil yapanlar <co>QOLMod</c> yapımcıları <cr>DEĞİLİZ.</c> Biz kodlamayı <cr>BİLMİYORUZ.</c> Bize mod ile ilgili sorunlarınızı (bug) sormayın. ok kib bay"
             }
         },
         "speedhack": {
-            "speed-label": "Speed:",
-            "delete-hint": "Tap a preset to remove it",
+            "speed-label": "Hız:",
+            "delete-hint": "Önceden ayarlanmışları basarak silebilirsiniz",
             "add-preset-exist": {
-                "title": "Speedhack Preset",
-                "text": "There's already a preset with the value <cc>%s</c>"
+                "title": "Hız hilesi önceden ayarlanmış",
+                "text": "Zaten <cc>%s</c> değeri ile yapılmış biri var gerizekalı"
             }
         },
         "font-select": {
             "title": "Select Font",
-            "japanese-supported": "This font supports Hiragana, Katakana and Kanji (Japanese)",
-            "russian-supported": "This font supports the Cyrillic writing system (Russian)",
-            "korean-supported": "This font supports the Hangul writing system (Korean)",
-            "chinese-supported": "This font supports the Hanzi writing system (Chinese"
+            "japanese-supported": "Bu font Hiragana, Katakana ve Kanji yazılarını destekliyor. (Japonca)",
+            "russian-supported": "Bu font Kiril alfabesini destekliyor. (Rusça)",
+            "korean-supported": "Bu font Hangul yazısını destekliyor. (Korece)",
+            "chinese-supported": "Bu font Hanzi yazısını destekliyor. (Çince"
         },
         "create-custom-reward": {
-            "first-use-warning": "<cr>Warning</c>\nUsing this tool will permenently edit your save file, this may result in a leaderboard ban.\n<cl>Use at your own risk</c>",
-            "create-button": "Create"
+            "first-use-warning": "<cr>UYARI!!</c>\n Bu aracı kullanmak senin kayıt dosyana sonsuza kadar kalacak şekilde bir damga atıyor. Oyun bu damga görürse sizi rekor tablolarından banlayabilir. \n<cl>BUNU İKİNCİ DEFA DÜŞÜNMEK İSTEYEBİLİRSİN.</c>",
+            "create-button": "Oluştur >:("
         },
         "labels": {
-            "cheat-indicator-label": "Cheat Indicator",
-            "noclip-only-label": "Noclip Only",
-            "none-added-hint": "No labels added.\nYou can <cc>add</c> labels with the\n<cl>buttons</c> on the <cp>right</c> side."
+            "cheat-indicator-label": "Hile göstergesi",
+            "noclip-only-label": "Sadece ölümsüzlük",
+            "none-added-hint": "DAha hiç tabela eklemememişsin.\n <cc>Sağdaki</c> tuşlar ile tabela <cc>ekleyebilirsin.</c>"
         },
         "search-tab": {
-            "placeholder": "Search a mod..."
+            "placeholder": "Mod arat..."
         },
         "setup-rotation": {
-            "title": "Edit Rotation",
-            "input-placeholder": "Rotation",
-            "input-title": "Rotation"
+            "title": "Yönü değiştir",
+            "input-placeholder": "Yön",
+            "input-title": "Rotasyon"
         },
         "setup-shortcut": {
-            "title": "Edit Shortcut",
-            "in-menu": "In Menu",
-            "in-game": "In Game",
-            "in-game-pause": "In Pause",
-            "in-editor": "In Editor",
-            "in-editor-pause": "In Editor Pause",
-            "scale-title": "Scale",
-            "opacity-title": "Opacity",
-            "enabled-title": "Enabled",
-            "movable-title": "Movable"
+            "title": "Kısayolu Değiştir",
+            "in-menu": "Menüde",
+            "in-game": "Oyunda",
+            "in-game-pause": "Durdur Ekranında",
+            "in-editor": "Editörde",
+            "in-editor-pause": "Editör Durdur Ekranında",
+            "scale-title": "Boyut",
+            "opacity-title": "Opaklık",
+            "enabled-title": "Açık",
+            "movable-title": "Hareket Edilebilir"
         },
         "select-item": {
             "title-generic": "Select Item",
